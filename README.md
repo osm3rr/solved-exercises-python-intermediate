@@ -1,0 +1,1 @@
+Solved exercises in python - intermediate level
